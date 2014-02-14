@@ -1,0 +1,24 @@
+/DISCLAIMER/1.1/Mon Jun  4 07:33:53 2001//TOPENBSD_5_4
+/Makefile/1.7/Thu Aug  2 13:38:39 2012//TOPENBSD_5_4
+/clean_exit.c/1.3/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/diag.c/1.6/Mon May 30 18:48:33 2011//TOPENBSD_5_4
+/eval.c/1.4/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/fix_options.c/1.8/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/hosts_access.3/1.15/Thu May 31 19:19:39 2007//TOPENBSD_5_4
+/hosts_access.5/1.25/Tue Jul 16 07:15:39 2013//TOPENBSD_5_4
+/hosts_access.c/1.12/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/hosts_ctl.c/1.2/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/hosts_options.5/1.11/Thu May 31 19:19:39 2007//TOPENBSD_5_4
+/misc.c/1.7/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/options.c/1.6/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/percent_m.c/1.4/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/percent_x.c/1.3/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/refuse.c/1.2/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/rfc1413.3/1.14/Thu May 31 19:19:39 2007//TOPENBSD_5_4
+/rfc931.c/1.12/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/shell_cmd.c/1.3/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/shlib_version/1.6/Tue Jul 13 21:03:36 2004//TOPENBSD_5_4
+/socket.c/1.9/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+/tcpd.h/1.16/Wed Dec  5 23:20:06 2012//TOPENBSD_5_4
+/update.c/1.6/Tue Oct 27 23:59:30 2009//TOPENBSD_5_4
+D

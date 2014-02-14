@@ -1,0 +1,8 @@
+/bcmp.S/1.4/Fri Jul  5 21:11:57 2013//TOPENBSD_5_4
+/bcopy.S/1.4/Thu Jun 13 03:58:22 2013//TOPENBSD_5_4
+/bzero.S/1.4/Fri Jul  5 21:11:57 2013//TOPENBSD_5_4
+/memcmp.S/1.2/Fri Jul  5 21:11:57 2013//TOPENBSD_5_4
+/memcpy.S/1.2/Thu Jun 13 03:58:22 2013//TOPENBSD_5_4
+/memmove.S/1.5/Fri Jul  5 21:11:57 2013//TOPENBSD_5_4
+/memset.S/1.2/Fri Jul  5 21:11:57 2013//TOPENBSD_5_4
+D

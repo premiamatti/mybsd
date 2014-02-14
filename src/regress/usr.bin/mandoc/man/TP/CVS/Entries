@@ -1,0 +1,14 @@
+/Makefile/1.5/Sat Jul 13 10:29:50 2013//TOPENBSD_5_4
+/badarg.in/1.1/Sun Nov 18 23:10:58 2012//TOPENBSD_5_4
+/badarg.out_ascii/1.1/Sun Nov 18 23:10:58 2012//TOPENBSD_5_4
+/double.in/1.1/Sat Jul 13 10:29:50 2013//TOPENBSD_5_4
+/double.out_ascii/1.1/Sat Jul 13 10:29:50 2013//TOPENBSD_5_4
+/literal.in/1.2/Thu Nov 17 16:28:45 2011//TOPENBSD_5_4
+/literal.out_ascii/1.3/Fri Dec  2 01:50:46 2011//TOPENBSD_5_4
+/macrotag.in/1.2/Thu Nov 17 16:28:45 2011//TOPENBSD_5_4
+/macrotag.out_ascii/1.3/Fri Dec  2 01:50:46 2011//TOPENBSD_5_4
+/manyargs.in/1.2/Thu Nov 17 16:28:45 2011//TOPENBSD_5_4
+/manyargs.out_ascii/1.3/Fri Dec  2 01:50:46 2011//TOPENBSD_5_4
+/width.in/1.2/Thu Nov 17 16:28:45 2011//TOPENBSD_5_4
+/width.out_ascii/1.3/Fri Dec  2 01:50:46 2011//TOPENBSD_5_4
+D

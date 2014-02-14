@@ -1,0 +1,16 @@
+/aes-586.pl/1.6/Sat Oct 13 21:25:12 2012//TOPENBSD_5_4
+/aes-armv4.pl/1.1.1.4/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+/aes-ia64.S/1.1.1.1/Sat Sep  6 12:15:39 2008//TOPENBSD_5_4
+/aes-mips.pl/1.1.1.1/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+/aes-parisc.pl/1.1.1.1/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+/aes-ppc.pl/1.1.1.3/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+/aes-s390x.pl/1.1.1.3/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+/aes-sparcv9.pl/1.1.1.2/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+/aes-x86_64.pl/1.4/Wed Oct 31 11:19:35 2012//TOPENBSD_5_4
+/aesni-sha1-x86_64.pl/1.1.1.1/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+/aesni-x86.pl/1.1.1.1/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+/aesni-x86_64.pl/1.2/Sat Oct 13 21:25:12 2012//TOPENBSD_5_4
+/bsaes-x86_64.pl/1.1.1.1/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+/vpaes-x86.pl/1.1.1.1/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+/vpaes-x86_64.pl/1.1.1.1/Sat Oct 13 21:23:33 2012//TOPENBSD_5_4
+D

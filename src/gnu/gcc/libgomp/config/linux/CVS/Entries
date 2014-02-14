@@ -1,0 +1,9 @@
+/bar.c/1.1.1.1/Thu Oct 15 17:11:31 2009//TOPENBSD_5_4
+/bar.h/1.1.1.1/Thu Oct 15 17:11:31 2009//TOPENBSD_5_4
+/lock.c/1.1.1.1/Thu Oct 15 17:11:31 2009//TOPENBSD_5_4
+/mutex.c/1.1.1.1/Thu Oct 15 17:11:31 2009//TOPENBSD_5_4
+/mutex.h/1.1.1.1/Thu Oct 15 17:11:31 2009//TOPENBSD_5_4
+/omp-lock.h/1.1.1.1/Thu Oct 15 17:11:31 2009//TOPENBSD_5_4
+/sem.c/1.1.1.1/Thu Oct 15 17:11:31 2009//TOPENBSD_5_4
+/sem.h/1.1.1.1/Thu Oct 15 17:11:31 2009//TOPENBSD_5_4
+D

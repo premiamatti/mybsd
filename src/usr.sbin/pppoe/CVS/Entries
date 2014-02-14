@@ -1,0 +1,11 @@
+/Makefile/1.4/Thu May  6 17:13:46 2004//TOPENBSD_5_4
+/client.c/1.24/Sat Nov  5 09:20:36 2011//TOPENBSD_5_4
+/common.c/1.13/Sat Nov  5 09:20:36 2011//TOPENBSD_5_4
+/debug.c/1.2/Wed Jun  4 04:46:13 2003//TOPENBSD_5_4
+/pppoe.8/1.27/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/pppoe.c/1.19/Sat Nov  5 09:20:36 2011//TOPENBSD_5_4
+/pppoe.h/1.10/Sat Oct 15 02:05:07 2011//TOPENBSD_5_4
+/server.c/1.15/Sat Nov  5 09:20:36 2011//TOPENBSD_5_4
+/session.c/1.5/Sat Nov  5 09:20:36 2011//TOPENBSD_5_4
+/tag.c/1.5/Sat Nov  5 09:20:36 2011//TOPENBSD_5_4
+D

@@ -1,0 +1,13 @@
+/bootsect.h/1.5/Fri Dec 15 03:04:24 2006//TOPENBSD_5_4
+/bpb.h/1.5/Fri Dec 15 03:04:24 2006//TOPENBSD_5_4
+/denode.h/1.26/Tue Jun 11 16:42:16 2013//TOPENBSD_5_4
+/direntry.h/1.6/Thu Mar 14 01:27:09 2002//TOPENBSD_5_4
+/fat.h/1.10/Tue Jun 11 16:42:16 2013//TOPENBSD_5_4
+/msdosfs_conv.c/1.15/Thu Sep  6 19:06:04 2012//TOPENBSD_5_4
+/msdosfs_denode.c/1.45/Tue Jun 11 16:42:16 2013//TOPENBSD_5_4
+/msdosfs_fat.c/1.24/Tue Jun 11 16:42:16 2013//TOPENBSD_5_4
+/msdosfs_lookup.c/1.26/Tue Jun 11 16:42:16 2013//TOPENBSD_5_4
+/msdosfs_vfsops.c/1.63/Mon Apr 15 15:32:19 2013//TOPENBSD_5_4
+/msdosfs_vnops.c/1.87/Tue Jun 11 16:42:16 2013//TOPENBSD_5_4
+/msdosfsmount.h/1.19/Mon Jan  5 01:14:40 2009//TOPENBSD_5_4
+D

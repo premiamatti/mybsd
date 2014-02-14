@@ -1,0 +1,11 @@
+/Makefile/1.4/Sat Jun  8 01:53:43 2002//TOPENBSD_5_4
+/extern.h/1.7/Wed Dec  5 23:20:26 2012//TOPENBSD_5_4
+/key.c/1.7/Tue Oct 27 23:59:52 2009//TOPENBSD_5_4
+/lpd.8/1.23/Thu Oct 28 21:51:02 2010//TOPENBSD_5_4
+/lpd.c/1.51/Mon Mar 11 17:40:11 2013//TOPENBSD_5_4
+/lpdchar.c/1.6/Tue Oct 27 23:59:52 2009//TOPENBSD_5_4
+/modes.c/1.7/Tue Oct 27 23:59:52 2009//TOPENBSD_5_4
+/printjob.c/1.47/Sun Mar  4 04:05:15 2012//TOPENBSD_5_4
+/recvjob.c/1.25/Tue Oct 27 23:59:52 2009//TOPENBSD_5_4
+/ttcompat.c/1.7/Tue Oct 27 23:59:52 2009//TOPENBSD_5_4
+D

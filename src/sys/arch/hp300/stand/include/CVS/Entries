@@ -1,0 +1,20 @@
+/consdefs.h/1.5/Thu Aug 17 06:31:10 2006//TOPENBSD_5_4
+/device.h/1.3/Thu Aug 18 20:02:58 2011//TOPENBSD_5_4
+/grf_dvreg.h/1.1/Wed Jan 19 17:09:32 2005//TOPENBSD_5_4
+/grf_gbreg.h/1.1/Wed Jan 19 17:09:32 2005//TOPENBSD_5_4
+/grf_hyreg.h/1.1/Wed Jan 19 17:09:32 2005//TOPENBSD_5_4
+/grf_rbreg.h/1.2/Thu Aug 17 06:31:10 2006//TOPENBSD_5_4
+/grf_tcreg.h/1.1/Wed Jan 19 17:09:32 2005//TOPENBSD_5_4
+/hilreg.h/1.2/Thu Aug 17 06:31:10 2006//TOPENBSD_5_4
+/hpibvar.h/1.4/Thu Aug 17 06:31:10 2006//TOPENBSD_5_4
+/if_lereg.h/1.3/Thu Aug 17 06:31:10 2006//TOPENBSD_5_4
+/itereg.h/1.2/Thu Aug 17 06:31:10 2006//TOPENBSD_5_4
+/itevar.h/1.6/Thu Aug 18 20:02:58 2011//TOPENBSD_5_4
+/kbdvar.h/1.5/Thu Jun 26 05:42:10 2008//TOPENBSD_5_4
+/maskbits.h/1.1/Sat Aug  5 09:58:57 2006//TOPENBSD_5_4
+/rominfo.h/1.3/Sat Feb  2 13:34:29 2013//TOPENBSD_5_4
+/samachdep.h/1.9/Mon Apr  1 12:55:27 2013//TOPENBSD_5_4
+/scsireg.h/1.4/Sat Feb  2 13:34:29 2013//TOPENBSD_5_4
+/scsivar.h/1.2/Mon Jun  2 23:27:46 2003//TOPENBSD_5_4
+/volhdr.h/1.2/Mon Jun  2 23:27:46 2003//TOPENBSD_5_4
+D

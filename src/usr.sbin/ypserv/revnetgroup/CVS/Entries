@@ -1,0 +1,7 @@
+/Makefile/1.2/Wed Nov 22 07:36:01 2006//TOPENBSD_5_4
+/hash.c/1.7/Tue Oct 27 23:59:58 2009//TOPENBSD_5_4
+/hash.h/1.2/Sat Feb 16 21:28:11 2002//TOPENBSD_5_4
+/parse_netgroup.c/1.12/Tue Oct 27 23:59:58 2009//TOPENBSD_5_4
+/revnetgroup.8/1.12/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/revnetgroup.c/1.10/Wed Apr  6 11:36:26 2011//TOPENBSD_5_4
+D

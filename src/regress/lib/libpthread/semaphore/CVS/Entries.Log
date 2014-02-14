@@ -1,0 +1,5 @@
+A D/sem_destroy////
+A D/sem_getvalue////
+A D/sem_timedwait////
+A D/sem_trywait////
+A D/sem_wait////

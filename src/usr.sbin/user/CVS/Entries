@@ -1,0 +1,17 @@
+/Makefile/1.5/Sat Dec 31 14:05:51 2011//TOPENBSD_5_4
+/defs.h/1.4/Mon Apr 19 17:48:31 2004//TOPENBSD_5_4
+/group.8/1.16/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/groupadd.8/1.16/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/groupdel.8/1.16/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/groupinfo.8/1.14/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/groupmod.8/1.18/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/main.c/1.7/Sat Dec 31 14:05:51 2011//TOPENBSD_5_4
+/user.8/1.21/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/user.c/1.95/Tue Apr  2 05:04:47 2013//TOPENBSD_5_4
+/useradd.8/1.31/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/userdel.8/1.16/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/userinfo.8/1.14/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+/usermgmt.conf.5/1.11/Sun Sep 19 21:59:23 2010//TOPENBSD_5_4
+/usermgmt.h/1.5/Sat Dec 31 14:05:51 2011//TOPENBSD_5_4
+/usermod.8/1.30/Tue Jul 16 11:13:34 2013//TOPENBSD_5_4
+D

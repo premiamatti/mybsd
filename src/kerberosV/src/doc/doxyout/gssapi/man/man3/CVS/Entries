@@ -1,0 +1,20 @@
+/__gss_c_attr_stream_sizes_oid_desc.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_add_oid_set_member.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_canonicalize_name.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_import_name.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_init_sec_context.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_inquire_attrs_for_mech.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_inquire_saslname_for_mech.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_oid_equal.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_release_cred.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_release_iov_buffer.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_release_name.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_unwrap_iov.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_wrap.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_wrap_iov.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gss_wrap_iov_length.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gssapi.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gssapi_mechs_intro.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/gssapi_services_intro.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/internalvsmechname.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+D

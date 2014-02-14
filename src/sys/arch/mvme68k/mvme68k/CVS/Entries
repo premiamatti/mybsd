@@ -1,0 +1,14 @@
+/autoconf.c/1.47/Thu Apr  7 15:30:15 2011//TOPENBSD_5_4
+/bus_dma.c/1.9/Thu Jun 23 20:44:39 2011//TOPENBSD_5_4
+/conf.c/1.55/Mon Jun  3 17:33:58 2013//TOPENBSD_5_4
+/disksubr.c/1.73/Fri Oct 21 13:08:01 2011//TOPENBSD_5_4
+/genassym.cf/1.23/Sun Mar  1 22:08:13 2009//TOPENBSD_5_4
+/locore.s/1.63/Sat Feb  2 13:36:05 2013//TOPENBSD_5_4
+/machdep.c/1.130/Tue Jun 11 16:42:09 2013//TOPENBSD_5_4
+/mem.c/1.25/Sun Dec 26 15:40:59 2010//TOPENBSD_5_4
+/pmap_bootstrap.c/1.24/Mon Jun 28 04:20:28 2010//TOPENBSD_5_4
+/sys_machdep.c/1.20/Sat Feb 21 20:33:24 2009//TOPENBSD_5_4
+/trap.c/1.77/Mon Dec 31 06:46:13 2012//TOPENBSD_5_4
+/vectors.s/1.10/Tue Mar  2 22:55:55 2004//TOPENBSD_5_4
+/vm_machdep.c/1.49/Wed Jan 16 19:04:43 2013//TOPENBSD_5_4
+D

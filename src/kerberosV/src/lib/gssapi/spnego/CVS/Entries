@@ -1,0 +1,11 @@
+/accept_sec_context.c/1.1/Mon Jun 17 19:11:42 2013//TOPENBSD_5_4
+/compat.c/1.1/Mon Jun 17 19:11:42 2013//TOPENBSD_5_4
+/context_stubs.c/1.1/Mon Jun 17 19:11:42 2013//TOPENBSD_5_4
+/cred_stubs.c/1.1/Mon Jun 17 19:11:42 2013//TOPENBSD_5_4
+/external.c/1.1/Mon Jun 17 19:11:42 2013//TOPENBSD_5_4
+/init_sec_context.c/1.1/Mon Jun 17 19:11:42 2013//TOPENBSD_5_4
+/spnego-private.h/1.1/Mon Jun 17 19:11:42 2013//TOPENBSD_5_4
+/spnego.asn1/1.1/Mon Jun 17 19:11:42 2013//TOPENBSD_5_4
+/spnego.opt/1.1/Mon Jun 17 19:11:42 2013//TOPENBSD_5_4
+/spnego_locl.h/1.1/Mon Jun 17 19:11:42 2013//TOPENBSD_5_4
+D

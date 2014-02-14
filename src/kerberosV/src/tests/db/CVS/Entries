@@ -1,0 +1,15 @@
+/Makefile.am/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/Makefile.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/NTMakefile/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/add-modify-delete.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/check-aliases.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/check-dbinfo.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/have-db.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/krb5-mit.conf.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/krb5.conf.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/loaddump-db.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/text-dump-0.7/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/text-dump-known-ext/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/text-dump-no-ext/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/text-dump-unknown-ext/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+D

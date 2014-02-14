@@ -1,0 +1,17 @@
+A D/bs2000////
+A D/cygwin////
+A D/mpeix////
+A D/netware////
+A D/os2////
+A D/os390////
+A D/tpf////
+A D/unix////
+A D/win32////
+R D/win32////
+R D/tpf////
+R D/os390////
+R D/os2////
+R D/netware////
+R D/mpeix////
+R D/cygwin////
+R D/bs2000////

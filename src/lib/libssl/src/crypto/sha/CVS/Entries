@@ -1,0 +1,16 @@
+/Makefile/1.1.1.6/Sat Oct 13 21:23:43 2012//TOPENBSD_5_4
+/sha.c/1.2/Wed Sep 29 04:36:44 1999//TOPENBSD_5_4
+/sha.h/1.9/Sat Oct 13 21:25:13 2012//TOPENBSD_5_4
+/sha1.c/1.2/Wed Sep 29 04:36:44 1999//TOPENBSD_5_4
+/sha1_one.c/1.8/Fri Oct  1 22:58:57 2010//TOPENBSD_5_4
+/sha1dgst.c/1.9/Sat Oct 13 21:25:13 2012//TOPENBSD_5_4
+/sha1test.c/1.6/Sat Sep  6 12:17:52 2008//TOPENBSD_5_4
+/sha256.c/1.1.1.4/Sat Oct 13 21:23:43 2012//TOPENBSD_5_4
+/sha256t.c/1.1.1.1/Sat Sep  6 12:15:46 2008//TOPENBSD_5_4
+/sha512.c/1.1.1.4.4.1/Fri Dec 20 02:18:35 2013//TOPENBSD_5_4
+/sha512t.c/1.1.1.1/Sat Sep  6 12:15:46 2008//TOPENBSD_5_4
+/sha_dgst.c/1.8/Sat Oct 13 21:25:13 2012//TOPENBSD_5_4
+/sha_locl.h/1.11/Sat Oct 13 21:25:13 2012//TOPENBSD_5_4
+/sha_one.c/1.6/Sat Sep  6 12:17:52 2008//TOPENBSD_5_4
+/shatest.c/1.8/Fri Oct  1 22:58:57 2010//TOPENBSD_5_4
+D

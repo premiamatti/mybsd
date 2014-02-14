@@ -1,0 +1,15 @@
+A D/cdboot////
+A D/common////
+A D/include////
+A D/installboot////
+A D/isolif////
+A D/libkern////
+A D/libsa////
+A D/libsaz////
+A D/libz////
+A D/mkboot////
+A D/stripboot////
+A D/uboot////
+R D/stripboot////
+R D/libkern////
+R D/isolif////

@@ -1,0 +1,9 @@
+/files.mscp/1.3/Thu Apr 27 03:14:45 2000//TOPENBSD_5_4
+/mscp.c/1.11/Wed Dec  5 23:20:15 2012//TOPENBSD_5_4
+/mscp.h/1.5/Mon Jun  2 23:27:57 2003//TOPENBSD_5_4
+/mscp_disk.c/1.39/Tue Jun 11 16:42:13 2013//TOPENBSD_5_4
+/mscp_subr.c/1.12/Wed Dec  5 23:20:15 2012//TOPENBSD_5_4
+/mscp_tape.c/1.16/Tue Jun 11 16:42:13 2013//TOPENBSD_5_4
+/mscpreg.h/1.5/Mon Jun  2 23:27:57 2003//TOPENBSD_5_4
+/mscpvar.h/1.7/Tue Nov  1 20:50:11 2011//TOPENBSD_5_4
+D

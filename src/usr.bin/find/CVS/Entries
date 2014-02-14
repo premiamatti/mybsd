@@ -1,0 +1,12 @@
+/Makefile/1.4/Wed Jul 19 19:30:10 2000//TOPENBSD_5_4
+/extern.h/1.18/Wed Dec  5 23:20:25 2012//TOPENBSD_5_4
+/find.1/1.86/Thu Mar 14 20:30:41 2013//TOPENBSD_5_4
+/find.c/1.16/Mon Jan  2 23:19:45 2012//TOPENBSD_5_4
+/find.h/1.15/Mon Jan  2 23:19:45 2012//TOPENBSD_5_4
+/function.c/1.40/Sat Apr 20 04:52:24 2013//TOPENBSD_5_4
+/ls.c/1.14/Tue Apr 23 18:08:40 2013//TOPENBSD_5_4
+/main.c/1.28/Tue Jun 14 21:04:05 2011//TOPENBSD_5_4
+/misc.c/1.11/Tue Oct 27 23:59:38 2009//TOPENBSD_5_4
+/operator.c/1.10/Tue Oct 27 23:59:38 2009//TOPENBSD_5_4
+/option.c/1.18/Tue Oct 27 23:59:38 2009//TOPENBSD_5_4
+D

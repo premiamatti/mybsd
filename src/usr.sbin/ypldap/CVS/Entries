@@ -1,0 +1,16 @@
+/Makefile/1.6/Wed May 26 16:44:33 2010//TOPENBSD_5_4
+/aldap.c/1.30/Mon Apr 30 21:40:03 2012//TOPENBSD_5_4
+/aldap.h/1.9/Mon Apr 30 21:40:03 2012//TOPENBSD_5_4
+/ber.c/1.7/Mon Jun 14 13:46:08 2010//TOPENBSD_5_4
+/ber.h/1.2/Mon Dec 29 15:48:13 2008//TOPENBSD_5_4
+/entries.c/1.2/Sun Aug 28 11:53:16 2011//TOPENBSD_5_4
+/ldapclient.c/1.27/Tue Apr 30 05:14:59 2013//TOPENBSD_5_4
+/log.c/1.1/Thu Jun 26 15:10:01 2008//TOPENBSD_5_4
+/parse.y/1.12/Wed Mar  6 21:42:40 2013//TOPENBSD_5_4
+/yp.c/1.11/Sun Aug 28 11:53:16 2011//TOPENBSD_5_4
+/ypldap.8/1.7/Sun Aug 28 11:53:16 2011//TOPENBSD_5_4
+/ypldap.c/1.12/Thu Mar 15 01:44:22 2012//TOPENBSD_5_4
+/ypldap.conf.5/1.19/Mon Apr 30 11:28:25 2012//TOPENBSD_5_4
+/ypldap.h/1.14/Wed Mar  6 21:42:40 2013//TOPENBSD_5_4
+/ypldap_dns.c/1.5/Fri Mar 16 01:57:42 2012//TOPENBSD_5_4
+D

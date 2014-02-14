@@ -1,0 +1,24 @@
+/Makefile/1.17/Fri Jul  5 21:29:51 2013//TOPENBSD_5_4
+/child.c/1.16/Mon Apr 18 12:29:59 2011//TOPENBSD_5_4
+/client.c/1.25/Mon Nov 12 01:18:37 2012//TOPENBSD_5_4
+/common.c/1.26/Sun Apr 24 02:23:57 2011//TOPENBSD_5_4
+/config-data.h/1.7/Sun Apr 10 15:47:28 2011//TOPENBSD_5_4
+/config-def.h/1.6/Tue Jun  3 02:56:14 2003//TOPENBSD_5_4
+/config.h/1.8/Tue Jun  3 02:56:14 2003//TOPENBSD_5_4
+/cron.entry/1.1.1.1/Wed Oct 18 08:45:58 1995//TOPENBSD_5_4
+/defs.h/1.18/Mon Nov 12 01:14:41 2012//TOPENBSD_5_4
+/distopt.c/1.11/Tue Oct 27 23:59:42 2009//TOPENBSD_5_4
+/docmd.c/1.25/Mon Nov 12 01:14:41 2012//TOPENBSD_5_4
+/expand.c/1.13/Mon Nov 12 01:14:41 2012//TOPENBSD_5_4
+/filesys.h/1.2/Tue Jun  3 02:56:14 2003//TOPENBSD_5_4
+/gram.y/1.10/Mon Nov 12 01:14:41 2012//TOPENBSD_5_4
+/isexec.c/1.8/Tue Oct 27 23:59:42 2009//TOPENBSD_5_4
+/lookup.c/1.14/Mon Nov 12 01:14:41 2012//TOPENBSD_5_4
+/message.c/1.18/Tue Oct 27 23:59:42 2009//TOPENBSD_5_4
+/os-openbsd.h/1.13/Tue Jun  3 02:56:14 2003//TOPENBSD_5_4
+/pathnames.h/1.8/Tue Jun  3 02:56:14 2003//TOPENBSD_5_4
+/rdist.1/1.40/Sat Sep  3 22:59:07 2011//TOPENBSD_5_4
+/rdist.c/1.21/Thu Apr 21 02:44:15 2011//TOPENBSD_5_4
+/types.h/1.5/Wed May 14 01:34:35 2003//TOPENBSD_5_4
+/version.h/1.7/Tue Jun  3 02:56:15 2003//TOPENBSD_5_4
+D

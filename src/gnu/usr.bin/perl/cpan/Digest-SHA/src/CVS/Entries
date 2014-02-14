@@ -1,0 +1,9 @@
+/hmac.c/1.1.1.2/Mon Mar 25 20:07:02 2013/-ko/TOPENBSD_5_4
+/hmac.h/1.1.1.2/Mon Mar 25 20:07:02 2013/-ko/TOPENBSD_5_4
+/hmacxtra.c/1.1.1.1/Fri Sep 24 14:48:56 2010/-ko/TOPENBSD_5_4
+/sha.c/1.1.1.2/Mon Mar 25 20:07:02 2013/-ko/TOPENBSD_5_4
+/sha.h/1.1.1.2/Mon Mar 25 20:07:02 2013/-ko/TOPENBSD_5_4
+/sha64bit.c/1.1.1.2/Mon Mar 25 20:07:03 2013/-ko/TOPENBSD_5_4
+/sha64bit.h/1.1.1.2/Mon Mar 25 20:07:03 2013/-ko/TOPENBSD_5_4
+/shaxtra.c/1.1.1.1/Fri Sep 24 14:48:56 2010/-ko/TOPENBSD_5_4
+D

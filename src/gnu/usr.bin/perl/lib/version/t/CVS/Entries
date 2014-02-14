@@ -1,0 +1,9 @@
+/01base.t/1.1.1.1/Mon Mar 25 20:09:10 2013/-ko/TOPENBSD_5_4
+/02derived.t/1.1.1.1/Mon Mar 25 20:09:10 2013/-ko/TOPENBSD_5_4
+/03require.t/1.1.1.1/Mon Mar 25 20:09:10 2013/-ko/TOPENBSD_5_4
+/04strict_lax.t/1.1.1.1/Mon Mar 25 20:09:10 2013/-ko/TOPENBSD_5_4
+/05sigdie.t/1.1.1.1/Mon Mar 25 20:09:10 2013/-ko/TOPENBSD_5_4
+/06noop.t/1.1.1.1/Mon Mar 25 20:09:10 2013/-ko/TOPENBSD_5_4
+/07locale.t/1.1.1.1/Mon Mar 25 20:09:10 2013/-ko/TOPENBSD_5_4
+/coretests.pm/1.1.1.1/Mon Mar 25 20:09:10 2013/-ko/TOPENBSD_5_4
+D

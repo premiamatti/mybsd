@@ -1,0 +1,17 @@
+A D/arch////
+A D/copy////
+A D/crypto////
+A D/ddb////
+A D/dev////
+A D/fdescfs////
+A D/ffs////
+A D/fifofs////
+A D/kern////
+A D/miscfs////
+A D/net////
+A D/netinet6////
+A D/ptrace////
+A D/sys////
+A D/uvm////
+R D/miscfs////
+R D/fdescfs////

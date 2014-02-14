@@ -1,0 +1,25 @@
+/HDB.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb__del.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb__get.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb__put.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_auth_status.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_check_constrained_delegation.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_check_pkinit_ms_upn_match.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_check_s4u2self.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_close.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_destroy.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_entry_ex.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_fetch_kvno.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_firstkey.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_free.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_get_realms.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_lock.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_name.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_nextkey.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_open.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_password.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_remove.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_rename.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_store.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+/hdb_unlock.3/1.1/Mon Jun 17 19:11:39 2013//TOPENBSD_5_4
+D

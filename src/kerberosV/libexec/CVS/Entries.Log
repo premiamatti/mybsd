@@ -1,0 +1,16 @@
+A D/digest-service////
+A D/hprop////
+A D/hpropd////
+A D/ipropd-master////
+A D/ipropd-slave////
+A D/kadmind////
+A D/kcm////
+A D/kdc////
+A D/kdigest////
+A D/kfd////
+A D/kimpersonate////
+A D/kpasswdd////
+R D/kimpersonate////
+R D/kdigest////
+R D/kcm////
+R D/digest-service////

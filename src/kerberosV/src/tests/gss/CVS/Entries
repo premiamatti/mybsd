@@ -1,0 +1,12 @@
+/Makefile.am/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/Makefile.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/NTMakefile/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/check-basic.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/check-context.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/check-gss.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/check-gssmask.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/check-ntlm.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/check-spnego.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/krb5.conf.in/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+/ntlm-user-file.txt/1.1/Mon Jun 17 19:11:45 2013//TOPENBSD_5_4
+D

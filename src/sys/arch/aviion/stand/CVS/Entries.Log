@@ -1,0 +1,11 @@
+A D/a2coff////
+A D/boot////
+A D/installboot////
+A D/libprom////
+A D/libsa////
+A D/libz////
+A D/netboot////
+A D/vdmtool////
+R D/vdmtool////
+R D/installboot////
+R D/boot////

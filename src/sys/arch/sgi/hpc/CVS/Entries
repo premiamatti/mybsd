@@ -1,0 +1,19 @@
+/dpclock.c/1.2/Wed Oct  3 22:46:09 2012//TOPENBSD_5_4
+/dsclock.c/1.4/Wed Oct  3 22:46:09 2012//TOPENBSD_5_4
+/files.hpc/1.4/Sun Apr 21 14:44:16 2013//TOPENBSD_5_4
+/hpc.c/1.15/Sat Sep 29 19:24:31 2012//TOPENBSD_5_4
+/hpcdma.c/1.1/Wed Mar 28 20:44:23 2012//TOPENBSD_5_4
+/hpcdma.h/1.1/Wed Mar 28 20:44:23 2012//TOPENBSD_5_4
+/hpcreg.h/1.1/Wed Mar 28 20:44:23 2012//TOPENBSD_5_4
+/hpcvar.h/1.8/Sun May 27 14:27:08 2012//TOPENBSD_5_4
+/if_sq.c/1.8/Mon May 28 17:03:35 2012//TOPENBSD_5_4
+/if_sqvar.h/1.4/Mon May 28 17:03:36 2012//TOPENBSD_5_4
+/iocreg.h/1.2/Sun Apr  8 22:08:25 2012//TOPENBSD_5_4
+/panel.c/1.1/Tue Apr 17 15:23:01 2012//TOPENBSD_5_4
+/pckbc_hpc.c/1.2/Wed Oct  3 22:46:09 2012//TOPENBSD_5_4
+/wdsc.c/1.4/Sat May 18 23:13:07 2013//TOPENBSD_5_4
+/wskbdmap_sgi.c/1.1/Tue Apr 17 22:06:33 2012//TOPENBSD_5_4
+/z8530kbd.c/1.4/Sun Apr 29 09:01:38 2012//TOPENBSD_5_4
+/z8530ms.c/1.1/Tue Apr 17 22:06:33 2012//TOPENBSD_5_4
+/zs.c/1.10/Sat Sep 29 18:54:39 2012//TOPENBSD_5_4
+D

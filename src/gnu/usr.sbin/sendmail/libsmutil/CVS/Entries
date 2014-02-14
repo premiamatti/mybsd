@@ -1,0 +1,8 @@
+/Makefile/1.7/Fri Nov  2 21:54:37 2012//TOPENBSD_5_4
+/cf.c/1.5/Thu Jun 24 03:59:26 2004/-ko/TOPENBSD_5_4
+/debug.c/1.4/Mon Oct  1 17:18:29 2001//TOPENBSD_5_4
+/err.c/1.2/Mon Oct  1 17:18:29 2001/-ko/TOPENBSD_5_4
+/lockfile.c/1.5/Thu Jun 24 03:59:26 2004//TOPENBSD_5_4
+/safefile.c/1.10/Tue May 17 15:54:23 2011//TOPENBSD_5_4
+/snprintf.c/1.5/Mon Oct  1 17:18:29 2001//TOPENBSD_5_4
+D

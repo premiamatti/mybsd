@@ -1,0 +1,26 @@
+/Makefile.inc/1.3/Wed Feb  3 20:49:00 2010//TOPENBSD_5_4
+/dmisc.c/1.3/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/dtoa.c/1.4/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/gdtoa.c/1.4/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/gdtoa.h/1.6/Sun Jul  3 13:33:48 2011//TOPENBSD_5_4
+/gdtoa_fltrnds.h/1.1/Tue Dec  9 19:44:10 2008//TOPENBSD_5_4
+/gdtoaimp.h/1.3/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/gethex.c/1.5/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/gmisc.c/1.1/Sun Sep  7 20:36:08 2008//TOPENBSD_5_4
+/hd_init.c/1.1/Sun Sep  7 20:36:08 2008//TOPENBSD_5_4
+/hdtoa.c/1.2/Fri Oct 16 12:15:03 2009//TOPENBSD_5_4
+/hexnan.c/1.2/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/ldtoa.c/1.1/Sun Sep  7 20:36:08 2008//TOPENBSD_5_4
+/locks.c/1.1/Sun Sep  7 20:36:08 2008//TOPENBSD_5_4
+/misc.c/1.4/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/smisc.c/1.3/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/strtod.c/1.5/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/strtodg.c/1.5/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/strtof.c/1.4/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/strtold.c/1.1/Sun Sep  7 20:36:08 2008//TOPENBSD_5_4
+/strtorQ.c/1.2/Fri Oct 16 12:15:03 2009//TOPENBSD_5_4
+/strtord.c/1.2/Fri Oct 16 12:15:03 2009//TOPENBSD_5_4
+/strtorx.c/1.3/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+/sum.c/1.2/Fri Oct 16 12:15:03 2009//TOPENBSD_5_4
+/ulp.c/1.2/Sat Jul  2 18:03:43 2011//TOPENBSD_5_4
+D

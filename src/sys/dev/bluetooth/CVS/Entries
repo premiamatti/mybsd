@@ -1,0 +1,11 @@
+/btdev.h/1.5/Mon Nov 24 23:54:03 2008//TOPENBSD_5_4
+/bthid.h/1.1/Fri Jul 27 16:52:24 2007//TOPENBSD_5_4
+/bthidev.c/1.9/Fri Jun 17 07:06:46 2011//TOPENBSD_5_4
+/bthidev.h/1.4/Thu Aug  5 13:13:17 2010//TOPENBSD_5_4
+/bthub.c/1.5/Sun Aug 29 15:12:28 2010//TOPENBSD_5_4
+/btkbd.c/1.7/Thu Aug  5 13:13:17 2010//TOPENBSD_5_4
+/btms.c/1.6/Fri Mar  4 23:57:52 2011//TOPENBSD_5_4
+/btsco.c/1.6/Wed May 15 08:29:24 2013//TOPENBSD_5_4
+/btsco.h/1.1/Mon Nov 24 22:31:19 2008//TOPENBSD_5_4
+/files.bluetooth/1.7/Sat Jul 31 16:04:50 2010//TOPENBSD_5_4
+D

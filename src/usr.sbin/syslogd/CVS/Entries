@@ -1,0 +1,10 @@
+/Makefile/1.5/Sun Jan  4 08:28:49 2004//TOPENBSD_5_4
+/privsep.c/1.34/Sun Nov 23 04:29:42 2008//TOPENBSD_5_4
+/privsep_fdpass.c/1.8/Wed Apr  4 17:24:50 2012//TOPENBSD_5_4
+/ringbuf.c/1.7/Wed Sep 21 23:25:32 2005//TOPENBSD_5_4
+/syslog.conf.5/1.23/Sat Jul 20 18:11:57 2013//TOPENBSD_5_4
+/syslogd.8/1.27/Sun Feb 10 10:47:08 2013//TOPENBSD_5_4
+/syslogd.c/1.107/Tue Apr 16 19:24:55 2013//TOPENBSD_5_4
+/syslogd.h/1.7/Fri Apr 30 19:29:01 2010//TOPENBSD_5_4
+/ttymsg.c/1.4/Tue Oct 27 23:59:54 2009//TOPENBSD_5_4
+D

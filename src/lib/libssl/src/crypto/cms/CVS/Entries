@@ -1,0 +1,17 @@
+/Makefile/1.1.1.4/Sat Oct 13 21:23:38 2012//TOPENBSD_5_4
+/cms.h/1.1.1.3/Sat Oct 13 21:23:38 2012//TOPENBSD_5_4
+/cms_asn1.c/1.1.1.3/Sat Oct 13 21:23:38 2012//TOPENBSD_5_4
+/cms_att.c/1.1.1.1/Sat Sep  6 12:15:42 2008//TOPENBSD_5_4
+/cms_cd.c/1.1.1.1/Sat Sep  6 12:15:42 2008//TOPENBSD_5_4
+/cms_dd.c/1.1.1.1/Sat Sep  6 12:15:42 2008//TOPENBSD_5_4
+/cms_enc.c/1.1.1.2/Sat Oct 13 21:23:38 2012//TOPENBSD_5_4
+/cms_env.c/1.1.1.3/Sat Oct 13 21:23:38 2012//TOPENBSD_5_4
+/cms_err.c/1.1.1.3/Sat Oct 13 21:23:38 2012//TOPENBSD_5_4
+/cms_ess.c/1.1.1.2/Fri Oct  1 22:54:05 2010//TOPENBSD_5_4
+/cms_io.c/1.1.1.2/Fri Oct  1 22:54:05 2010//TOPENBSD_5_4
+/cms_lcl.h/1.1.1.3/Sat Oct 13 21:23:38 2012//TOPENBSD_5_4
+/cms_lib.c/1.1.1.3/Sat Oct 13 21:23:38 2012//TOPENBSD_5_4
+/cms_pwri.c/1.1.1.1/Sat Oct 13 21:23:38 2012//TOPENBSD_5_4
+/cms_sd.c/1.1.1.4/Sat Oct 13 21:23:38 2012//TOPENBSD_5_4
+/cms_smime.c/1.6/Sat Oct 13 21:25:13 2012//TOPENBSD_5_4
+D

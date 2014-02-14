@@ -1,0 +1,9 @@
+/01_load.t/1.1.1.2/Fri Sep 24 14:48:54 2010/-ko/TOPENBSD_5_4
+/02_function.t/1.1.1.2/Fri Sep 24 14:48:54 2010/-ko/TOPENBSD_5_4
+/03_class.t/1.1.1.2/Fri Sep 24 14:48:54 2010/-ko/TOPENBSD_5_4
+/04_thread.t/1.1.1.2/Fri Sep 24 14:48:54 2010/-ko/TOPENBSD_5_4
+/05_perlhook.t/1.1.1.2/Fri Sep 24 14:48:54 2010/-ko/TOPENBSD_5_4
+/10_hash.t/1.2/Wed Mar  6 19:21:08 2013/-ko/TOPENBSD_5_4
+/11_hashassign.t/1.1.1.3/Mon Mar 25 20:08:45 2013/-ko/TOPENBSD_5_4
+/12_hashwarn.t/1.1.1.2/Fri Sep 24 14:48:54 2010/-ko/TOPENBSD_5_4
+D

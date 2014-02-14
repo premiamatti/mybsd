@@ -1,0 +1,18 @@
+/Makefile.inc/1.1/Mon Jul 21 18:41:30 2003//TOPENBSD_5_4
+/fpu_add.c/1.2/Wed Dec  5 23:19:59 2012//TOPENBSD_5_4
+/fpu_arith.h/1.2/Sat Sep 17 08:38:07 2011//TOPENBSD_5_4
+/fpu_compare.c/1.2/Wed Dec  5 23:19:59 2012//TOPENBSD_5_4
+/fpu_div.c/1.2/Wed Dec  5 23:19:59 2012//TOPENBSD_5_4
+/fpu_emu.h/1.1/Mon Jul 21 18:41:30 2003//TOPENBSD_5_4
+/fpu_explode.c/1.7/Wed Dec  5 23:19:59 2012//TOPENBSD_5_4
+/fpu_extern.h/1.3/Thu Jun 26 05:42:05 2008//TOPENBSD_5_4
+/fpu_implode.c/1.3/Wed Dec  5 23:19:59 2012//TOPENBSD_5_4
+/fpu_mul.c/1.2/Wed Dec  5 23:19:59 2012//TOPENBSD_5_4
+/fpu_q.c/1.2/Tue Feb  3 17:18:13 2004//TOPENBSD_5_4
+/fpu_q.h/1.2/Tue Feb  3 17:18:13 2004//TOPENBSD_5_4
+/fpu_qp.c/1.4/Wed Dec  5 23:19:59 2012//TOPENBSD_5_4
+/fpu_reg.c/1.1/Mon Jul 21 18:41:30 2003//TOPENBSD_5_4
+/fpu_reg.h/1.1/Mon Jul 21 18:41:30 2003//TOPENBSD_5_4
+/fpu_sqrt.c/1.2/Wed Dec  5 23:19:59 2012//TOPENBSD_5_4
+/fpu_subr.c/1.2/Wed Dec  5 23:19:59 2012//TOPENBSD_5_4
+D

@@ -1,0 +1,19 @@
+/Makefile.in/1.1.1.1/Wed May 26 13:38:39 1999//TOPENBSD_5_4
+/README/1.1.1.1/Wed May 26 13:38:39 1999//TOPENBSD_5_4
+/altbytes/1.1.1.1/Wed May 26 13:38:39 1999//TOPENBSD_5_4
+/byteflip.c/1.1.1.1/Wed May 26 13:38:39 1999//TOPENBSD_5_4
+/case.c/1.1.1.1/Wed May 26 13:38:39 1999//TOPENBSD_5_4
+/case.h/1.1.1.1/Wed May 26 13:38:39 1999//TOPENBSD_5_4
+/configure.in/1.1.1.1/Wed May 26 13:38:39 1999//TOPENBSD_5_4
+/dbz.1/1.1.1.1/Wed May 26 13:38:39 1999//TOPENBSD_5_4
+/dbz.3z/1.1.1.1/Wed May 26 13:38:39 1999//TOPENBSD_5_4
+/dbz.c/1.1.1.1/Wed May 26 13:38:40 1999//TOPENBSD_5_4
+/dbz.h/1.1.1.1/Wed May 26 13:38:40 1999//TOPENBSD_5_4
+/dbzmain.c/1.1.1.4/Mon Jan 29 15:26:38 2001//TOPENBSD_5_4
+/fake.c/1.1.1.4/Mon Jan 29 15:26:38 2001//TOPENBSD_5_4
+/firstlast25/1.1.1.1/Wed May 26 13:38:40 1999//TOPENBSD_5_4
+/getmap/1.1.1.1/Wed May 26 13:38:40 1999//TOPENBSD_5_4
+/random.c/1.1.1.1/Wed May 26 13:38:40 1999//TOPENBSD_5_4
+/revbytes/1.1.1.1/Wed May 26 13:38:40 1999//TOPENBSD_5_4
+/stdio.h/1.1.1.1/Wed May 26 13:38:40 1999//TOPENBSD_5_4
+D

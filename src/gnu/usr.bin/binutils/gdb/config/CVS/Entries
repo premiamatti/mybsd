@@ -1,0 +1,13 @@
+/nm-bsd.h/1.2/Mon Dec 27 14:00:45 2004//TOPENBSD_5_4
+/nm-gnu.h/1.4/Mon Dec 27 14:00:45 2004//TOPENBSD_5_4
+/nm-linux.h/1.1.1.2/Mon Dec 27 13:13:34 2004//TOPENBSD_5_4
+/nm-lynx.h/1.4/Mon Dec 27 14:00:45 2004//TOPENBSD_5_4
+/nm-nbsd.h/1.5/Mon Dec 27 14:00:45 2004//TOPENBSD_5_4
+/nm-nbsdaout.h/1.1.1.1/Fri May 21 19:15:23 2004//TOPENBSD_5_4
+/nm-sysv4.h/1.4/Mon Dec 27 14:00:45 2004//TOPENBSD_5_4
+/tm-linux.h/1.1.1.2/Mon Dec 27 13:13:34 2004//TOPENBSD_5_4
+/tm-lynx.h/1.3/Fri May 21 20:23:17 2004//TOPENBSD_5_4
+/tm-nto.h/1.1.1.2/Mon Dec 27 13:13:33 2004//TOPENBSD_5_4
+/tm-sysv4.h/1.3/Fri May 21 20:23:17 2004//TOPENBSD_5_4
+/tm-vxworks.h/1.1.1.1/Fri May 21 19:15:23 2004//TOPENBSD_5_4
+D

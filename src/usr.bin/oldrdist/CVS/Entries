@@ -1,0 +1,11 @@
+/Makefile/1.6/Sun Apr 27 20:56:51 1997//TOPENBSD_5_4
+/defs.h/1.13/Sun Jun  2 06:20:35 2013//TOPENBSD_5_4
+/docmd.c/1.23/Sun Jun  2 06:20:35 2013//TOPENBSD_5_4
+/expand.c/1.15/Sun Jun  2 06:20:35 2013//TOPENBSD_5_4
+/gram.y/1.6/Tue Oct 27 23:59:41 2009//TOPENBSD_5_4
+/lookup.c/1.10/Tue Oct 27 23:59:41 2009//TOPENBSD_5_4
+/main.c/1.22/Fri Feb 24 06:19:00 2012//TOPENBSD_5_4
+/oldrdist.1/1.21/Tue Jul 16 06:48:36 2013//TOPENBSD_5_4
+/pathnames.h/1.5/Tue Jun  3 02:56:14 2003//TOPENBSD_5_4
+/server.c/1.34/Sun Jun  2 06:20:35 2013//TOPENBSD_5_4
+D

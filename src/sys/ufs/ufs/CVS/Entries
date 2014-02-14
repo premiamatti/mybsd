@@ -1,0 +1,17 @@
+/dinode.h/1.18/Thu May 30 19:19:09 2013//TOPENBSD_5_4
+/dir.h/1.11/Sat Jan 31 21:21:45 2009//TOPENBSD_5_4
+/dirhash.h/1.5/Sun Apr 25 14:43:07 2010//TOPENBSD_5_4
+/inode.h/1.40/Tue Jun 11 16:42:19 2013//TOPENBSD_5_4
+/quota.h/1.12/Wed Jul  3 04:58:40 2013//TOPENBSD_5_4
+/ufs_bmap.c/1.33/Tue Jun 11 16:42:19 2013//TOPENBSD_5_4
+/ufs_dirhash.c/1.24/Thu Aug 16 04:52:51 2012//TOPENBSD_5_4
+/ufs_extern.h/1.34/Tue Jun 11 16:42:19 2013//TOPENBSD_5_4
+/ufs_ihash.c/1.17/Thu May 30 19:19:09 2013//TOPENBSD_5_4
+/ufs_inode.c/1.38/Fri Aug 14 20:55:05 2009//TOPENBSD_5_4
+/ufs_lookup.c/1.42/Thu May 30 19:19:09 2013//TOPENBSD_5_4
+/ufs_quota.c/1.31/Tue Jun 11 16:42:19 2013//TOPENBSD_5_4
+/ufs_quota_stub.c/1.6/Tue Jun 11 16:42:19 2013//TOPENBSD_5_4
+/ufs_vfsops.c/1.17/Wed May  1 14:43:09 2013//TOPENBSD_5_4
+/ufs_vnops.c/1.107/Tue Jun 11 16:42:19 2013//TOPENBSD_5_4
+/ufsmount.h/1.12/Sun Oct 29 00:53:37 2006//TOPENBSD_5_4
+D

@@ -1,0 +1,10 @@
+/fastcgi.conf/1.2/Sun May 13 09:14:58 2012//TOPENBSD_5_4
+/fastcgi_params/1.3/Tue Oct 30 13:00:35 2012//TOPENBSD_5_4
+/koi-utf/1.2/Tue Oct 30 13:00:35 2012//TOPENBSD_5_4
+/koi-win/1.2/Tue Oct 30 13:00:35 2012//TOPENBSD_5_4
+/mime.types/1.5/Tue Oct 30 13:00:35 2012//TOPENBSD_5_4
+/nginx.conf/1.14/Sun Jun  2 14:11:38 2013//TOPENBSD_5_4
+/scgi_params/1.3/Tue Oct 30 13:00:35 2012//TOPENBSD_5_4
+/uwsgi_params/1.3/Tue Oct 30 13:00:35 2012//TOPENBSD_5_4
+/win-utf/1.2/Tue Oct 30 13:00:35 2012//TOPENBSD_5_4
+D

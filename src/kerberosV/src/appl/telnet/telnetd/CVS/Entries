@@ -1,0 +1,17 @@
+/Makefile.am/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/Makefile.in/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/NTMakefile/1.1/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/authenc.c/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/defs.h/1.4/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/ext.h/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/global.c/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/slc.c/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/state.c/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/sys_term.c/1.5/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/telnetd.8/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/telnetd.c/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/telnetd.cat8/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/telnetd.h/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/termstat.c/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+/utility.c/1.3/Mon Jun 17 19:11:38 2013//TOPENBSD_5_4
+D

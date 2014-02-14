@@ -1,0 +1,10 @@
+/elf.h/1.1.1.1/Wed May 26 13:36:01 1999//TOPENBSD_5_4
+/lib1funcs.asm/1.1.1.2/Mon Aug 23 20:30:50 1999//TOPENBSD_5_4
+/rtems.h/1.1.1.1/Wed May 26 13:36:02 1999//TOPENBSD_5_4
+/rtemself.h/1.1.1.1/Wed May 26 13:36:02 1999//TOPENBSD_5_4
+/sh.c/1.1.1.2/Mon Aug 23 20:30:51 1999//TOPENBSD_5_4
+/sh.h/1.1.1.2/Mon Aug 23 20:30:51 1999//TOPENBSD_5_4
+/sh.md/1.1.1.2/Mon Aug 23 20:30:52 1999//TOPENBSD_5_4
+/t-sh/1.1.1.1/Wed May 26 13:36:03 1999//TOPENBSD_5_4
+/xm-sh.h/1.1.1.1/Wed May 26 13:36:03 1999//TOPENBSD_5_4
+D

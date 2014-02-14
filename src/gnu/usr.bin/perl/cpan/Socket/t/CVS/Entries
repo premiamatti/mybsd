@@ -1,0 +1,7 @@
+/Socket.t/1.1.1.1/Mon Mar 25 20:08:11 2013/-ko/TOPENBSD_5_4
+/getaddrinfo.t/1.1.1.1/Mon Mar 25 20:08:10 2013/-ko/TOPENBSD_5_4
+/getnameinfo.t/1.1.1.1/Mon Mar 25 20:08:10 2013/-ko/TOPENBSD_5_4
+/ipv6_mreq.t/1.1.1.1/Mon Mar 25 20:08:10 2013/-ko/TOPENBSD_5_4
+/sockaddr.t/1.1.1.1/Mon Mar 25 20:08:11 2013/-ko/TOPENBSD_5_4
+/socketpair.t/1.1.1.1/Mon Mar 25 20:08:11 2013/-ko/TOPENBSD_5_4
+D

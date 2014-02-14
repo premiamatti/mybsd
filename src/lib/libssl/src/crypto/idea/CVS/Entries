@@ -1,0 +1,12 @@
+/Makefile/1.1.1.6/Sat Oct 13 21:23:41 2012//TOPENBSD_5_4
+/i_cbc.c/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_4
+/i_cfb64.c/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_4
+/i_ecb.c/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_4
+/i_ofb64.c/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_4
+/i_skey.c/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_4
+/idea.h/1.8/Sat Oct 13 21:25:13 2012//TOPENBSD_5_4
+/idea_lcl.h/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_4
+/idea_spd.c/1.1.1.1/Sat Oct 13 21:23:41 2012//TOPENBSD_5_4
+/ideatest.c/1.1.1.2/Sat Sep  6 12:15:44 2008//TOPENBSD_5_4
+/version/1.1.1.1/Sun May 11 21:35:23 2003//TOPENBSD_5_4
+D

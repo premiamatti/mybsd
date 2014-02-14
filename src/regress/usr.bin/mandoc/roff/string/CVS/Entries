@@ -1,0 +1,10 @@
+/Makefile/1.5/Thu Nov 17 16:28:46 2011//TOPENBSD_5_4
+/escape.in/1.1/Thu Dec  9 20:56:30 2010//TOPENBSD_5_4
+/escape.out_ascii/1.3/Fri Dec  2 01:50:46 2011//TOPENBSD_5_4
+/infinite.in/1.2/Thu Nov 17 16:28:46 2011//TOPENBSD_5_4
+/infinite.out_ascii/1.3/Fri Dec  2 01:50:46 2011//TOPENBSD_5_4
+/name.in/1.2/Sun Feb 26 19:11:06 2012//TOPENBSD_5_4
+/name.out_ascii/1.3/Sun Feb 26 19:11:06 2012//TOPENBSD_5_4
+/zerolength.in/1.1/Sat Jan  1 21:14:09 2011//TOPENBSD_5_4
+/zerolength.out_ascii/1.3/Fri Dec  2 01:50:46 2011//TOPENBSD_5_4
+D

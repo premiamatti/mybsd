@@ -1,0 +1,12 @@
+A D/arm////
+A D/armv7////
+A D/conf////
+A D/cortex////
+A D/footbridge////
+A D/include////
+A D/mainbus////
+A D/s3c2xx0////
+A D/sa11x0////
+A D/xscale////
+R D/s3c2xx0////
+R D/footbridge////

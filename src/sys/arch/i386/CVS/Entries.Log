@@ -1,0 +1,16 @@
+A D/apm_init////
+A D/boot////
+A D/boot.dos////
+A D/compile////
+A D/conf////
+A D/eisa////
+A D/i386////
+A D/include////
+A D/isa////
+A D/netboot////
+A D/pci////
+A D/stand////
+R D/netboot////
+R D/boot.dos////
+R D/boot////
+R D/apm_init////

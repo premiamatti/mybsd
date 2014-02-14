@@ -1,0 +1,6 @@
+A D/malloc0test////
+A D/malloc_errno////
+A D/malloc_free////
+A D/malloc_ulimit1////
+A D/malloc_ulimit2////
+R D/malloc_free////

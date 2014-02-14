@@ -1,0 +1,19 @@
+/aout.h/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/aout.opt/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/arit.c/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/cris-protos.h/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/cris.c/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/cris.h/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/cris.md/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/cris.opt/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/cris_abi_symbol.c/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/elf.opt/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/linux.h/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/linux.opt/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/mulsi3.asm/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/predicates.md/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/t-aout/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/t-cris/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/t-elfmulti/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+/t-linux/1.1.1.1/Thu Oct 15 17:11:30 2009//TOPENBSD_5_4
+D

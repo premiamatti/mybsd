@@ -1,0 +1,10 @@
+/bless.t/1.1.1.2/Mon Mar 25 20:08:33 2013/-ko/TOPENBSD_5_4
+/bugs.t/1.1.1.2/Mon Mar 25 20:08:33 2013/-ko/TOPENBSD_5_4
+/dumper.t/1.1.1.2/Mon Mar 25 20:08:33 2013/-ko/TOPENBSD_5_4
+/freezer.t/1.1.1.2/Mon Mar 25 20:08:33 2013/-ko/TOPENBSD_5_4
+/overload.t/1.1.1.2/Mon Mar 25 20:08:33 2013/-ko/TOPENBSD_5_4
+/pair.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_4
+/perl-74170.t/1.1.1.1/Mon Mar 25 20:08:33 2013/-ko/TOPENBSD_5_4
+/qr.t/1.1.1.1/Mon Mar 25 20:08:33 2013/-ko/TOPENBSD_5_4
+/terse.t/1.1.1.1/Mon Mar 25 20:08:33 2013/-ko/TOPENBSD_5_4
+D

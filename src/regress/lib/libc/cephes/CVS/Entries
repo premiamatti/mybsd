@@ -1,0 +1,14 @@
+/Makefile/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/drand.c/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/econst.c/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/eexp.c/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/ehead.h/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/elog.c/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/epow.c/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/etanh.c/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/etodec.c/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/ieee.c/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/ieetst.c/1.2/Sun Jul  3 13:39:07 2011//TOPENBSD_5_4
+/mconf.h/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+/mtherr.c/1.1/Sat Jul  2 18:11:01 2011//TOPENBSD_5_4
+D

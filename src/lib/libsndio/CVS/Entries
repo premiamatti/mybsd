@@ -1,0 +1,19 @@
+/Makefile/1.9/Wed Sep 12 09:19:54 2012//TOPENBSD_5_4
+/amsg.h/1.6/Fri Nov 23 06:40:26 2012//TOPENBSD_5_4
+/aucat.c/1.57/Wed Mar 13 08:51:18 2013//TOPENBSD_5_4
+/aucat.h/1.5/Fri Nov  2 10:24:58 2012//TOPENBSD_5_4
+/debug.c/1.2/Tue Nov 15 08:05:22 2011//TOPENBSD_5_4
+/debug.h/1.2/Tue Nov 15 08:05:22 2011//TOPENBSD_5_4
+/mio.c/1.17/Fri Nov 23 07:03:28 2012//TOPENBSD_5_4
+/mio_aucat.c/1.9/Fri Nov  2 10:24:58 2012//TOPENBSD_5_4
+/mio_open.3/1.13/Thu Jul  4 21:49:10 2013//TOPENBSD_5_4
+/mio_priv.h/1.9/Sat Oct 27 12:08:25 2012//TOPENBSD_5_4
+/mio_rmidi.c/1.12/Sat Oct 27 12:08:25 2012//TOPENBSD_5_4
+/shlib_version/1.7/Sat Nov  6 20:25:42 2010//TOPENBSD_5_4
+/sio.c/1.13/Wed Apr  3 03:13:32 2013//TOPENBSD_5_4
+/sio_aucat.c/1.14/Fri Nov 23 06:40:26 2012//TOPENBSD_5_4
+/sio_open.3/1.37/Thu Jul  4 21:49:10 2013//TOPENBSD_5_4
+/sio_priv.h/1.5/Wed Apr  3 03:13:32 2013//TOPENBSD_5_4
+/sio_sun.c/1.7/Fri Sep 14 22:50:26 2012//TOPENBSD_5_4
+/sndio.7/1.13/Sat Apr  6 11:38:41 2013//TOPENBSD_5_4
+D

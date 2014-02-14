@@ -1,0 +1,13 @@
+/ChangeLog/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/Makefile.am/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/Makefile.in/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/NTMakefile/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/heimntlm-protos.h/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/heimntlm.h/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/libheimntlm-exports.def/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/libheimntlm-version.rc/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/ntlm.c/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/ntlm_err.et/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/test_ntlm.c/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+/version-script.map/1.1/Mon Jun 17 19:11:44 2013//TOPENBSD_5_4
+D

@@ -1,0 +1,8 @@
+/isa_machdep.c/1.13/Sun Feb 12 21:09:08 2006//TOPENBSD_5_4
+/isa_machdep.h/1.14/Fri Mar  8 18:29:33 2013//TOPENBSD_5_4
+/isadma_bounce.c/1.10/Sat Nov 20 20:58:49 2010//TOPENBSD_5_4
+/isafcns_jensen.c/1.7/Tue Jun 25 21:33:21 2002//TOPENBSD_5_4
+/isapnp_machdep.c/1.4/Thu Jun 26 05:42:08 2008//TOPENBSD_5_4
+/isapnp_machdep.h/1.4/Thu Jun 26 05:42:08 2008//TOPENBSD_5_4
+/mcclock_isa.c/1.8/Mon Jan  2 05:21:24 2006//TOPENBSD_5_4
+D

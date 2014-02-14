@@ -1,0 +1,22 @@
+/.cvsignore/1.1.1.2/Fri Oct 18 03:36:44 1996//TOPENBSD_5_4
+/ChangeLog/1.1.1.17/Fri Sep 28 22:45:42 2001//TOPENBSD_5_4
+/Makefile.am/1.1.1.1/Fri Sep 28 22:45:42 2001//TOPENBSD_5_4
+/Makefile.in/1.1.1.9/Fri Sep 28 22:45:42 2001//TOPENBSD_5_4
+/README/1.1.1.10/Sun Feb 28 21:34:39 1999//TOPENBSD_5_4
+/config.h/1.1.1.13/Fri Sep 28 22:45:42 2001//TOPENBSD_5_4
+/filesubr.c/1.1.1.14/Fri Sep 28 22:45:42 2001//TOPENBSD_5_4
+/mkdir.c/1.1.1.1/Tue Dec 19 09:21:44 1995//TOPENBSD_5_4
+/ndir.c/1.1.1.4/Sun Feb 22 08:22:20 1998//TOPENBSD_5_4
+/ndir.h/1.1.1.5/Sun Feb 22 08:22:17 1998//TOPENBSD_5_4
+/options.h/1.1.1.9/Fri Sep 10 05:06:35 1999//TOPENBSD_5_4
+/pwd.c/1.1.1.5/Sat Feb 10 18:57:58 2001//TOPENBSD_5_4
+/pwd.h/1.1.1.4/Sun Feb 22 08:22:18 1998//TOPENBSD_5_4
+/rcmd.c/1.1.1.6/Sun Feb 22 08:22:21 1998//TOPENBSD_5_4
+/rcmd.h/1.1.1.1/Tue Dec 19 09:21:44 1995//TOPENBSD_5_4
+/run.c/1.1.1.6/Sun Feb 22 08:22:22 1998//TOPENBSD_5_4
+/sockerror.c/1.1.1.1/Mon Apr 21 04:29:11 1997//TOPENBSD_5_4
+/startserver.c/1.1.1.6/Sat Aug 22 20:55:00 1998//TOPENBSD_5_4
+/stripslash.c/1.1.1.2/Fri Feb 21 06:38:36 1997//TOPENBSD_5_4
+/waitpid.c/1.1.1.1/Tue Dec 19 09:21:44 1995//TOPENBSD_5_4
+/win32.c/1.1.1.6/Fri Sep 28 22:45:42 2001//TOPENBSD_5_4
+D

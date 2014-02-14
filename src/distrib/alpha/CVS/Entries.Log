@@ -1,0 +1,16 @@
+A D/bsd.rd////
+A D/cdfs////
+A D/common////
+A D/floppy////
+A D/floppyB////
+A D/floppyC////
+A D/inst-common////
+A D/iso////
+A D/ramdisk////
+A D/rz25dist////
+A D/simpleroot////
+A D/special////
+R D/special////
+R D/simpleroot////
+R D/rz25dist////
+R D/ramdisk////

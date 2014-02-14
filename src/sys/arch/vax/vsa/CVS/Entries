@@ -1,0 +1,17 @@
+/asc_vsbus.c/1.15/Wed Dec  5 23:20:15 2012//TOPENBSD_5_4
+/dz_ibus.c/1.29/Sun Sep 11 19:29:01 2011//TOPENBSD_5_4
+/gpx.c/1.21/Sat Sep  5 14:09:35 2009//TOPENBSD_5_4
+/hdc9224.c/1.40/Sat Jul  6 18:31:46 2013//TOPENBSD_5_4
+/hdc9224.h/1.7/Mon Nov  6 22:16:28 2006//TOPENBSD_5_4
+/if_le_vsbus.c/1.13/Fri Aug 26 21:52:22 2011//TOPENBSD_5_4
+/if_ze_vsbus.c/1.6/Mon Sep 20 06:33:48 2010//TOPENBSD_5_4
+/lcg.c/1.19/Mon Sep 19 21:53:02 2011//TOPENBSD_5_4
+/lcgreg.h/1.4/Thu Jun 26 05:42:14 2008//TOPENBSD_5_4
+/lcspx.c/1.17/Tue Sep 20 21:11:33 2011//TOPENBSD_5_4
+/maskbits.h/1.1/Sat Aug  5 10:00:30 2006//TOPENBSD_5_4
+/ncr.c/1.28/Mon Sep 20 06:33:48 2010//TOPENBSD_5_4
+/smg.c/1.24/Sun Dec 26 15:41:00 2010//TOPENBSD_5_4
+/vsaudio.c/1.4/Wed May 15 21:21:11 2013//TOPENBSD_5_4
+/vsbus.c/1.23/Sun Sep 11 19:29:01 2011//TOPENBSD_5_4
+/vsbus_dma.c/1.5/Thu Jun 26 05:42:14 2008//TOPENBSD_5_4
+D

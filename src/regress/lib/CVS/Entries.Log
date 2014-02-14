@@ -1,0 +1,15 @@
+A D/csu////
+A D/libc////
+A D/libc_r////
+A D/libevent////
+A D/libfuse////
+A D/libm////
+A D/libpthread////
+A D/libsa////
+A D/libskey////
+A D/libsndio////
+A D/libssl////
+A D/libutil////
+R D/libsa////
+R D/libfuse////
+R D/libc_r////
